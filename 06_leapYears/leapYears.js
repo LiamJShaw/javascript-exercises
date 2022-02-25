@@ -22,7 +22,5 @@ const leapYears = function(year) {
     return false;
 }
 
-console.log(leapYears(2022));
-
 // Do not edit below this line
 module.exports = leapYears;
